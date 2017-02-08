@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="in.org.unionchurch.unionchurch" version="3.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Union Church</name>
+<widget id="org.welfaremissionofindia.org" version="3.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Welfare Mission</name>
     <description>
         This is a Church App specifically designed for members to stay updated with the church activities.
     </description>
@@ -8,7 +8,7 @@
      PocketApp.in
     </author>
 	
-	<preference name="windows-identity-name" value="26744SamareshBisoi.21906E7BA496D" />
+	
 	
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
@@ -135,8 +135,7 @@
 	
 	
 <platform name="winphone">
-	
-	<preference name="phonegap-version" value="cli-6.0.0" />
+
  
 </platform>
 	
